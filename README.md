@@ -47,7 +47,8 @@ Defining and organizing functional requirements in a system
 Specifying the context and requirements of a system
 
 → Modeling the basic flow of events in a sina use case.
-<img width="842" height="787" alt="USE CASE DIAGRAM" src="https://github.com/user-attachments/assets/12fd01f2-c212-4e7f-9cda-0843c0f12c80" />
+<img width="732" height="892" alt="Screenshot 2026-07-29 105256" src="https://github.com/user-attachments/assets/40e5b7ab-ee6a-48b0-a4d2-bb9a7decbac5" />
+
 
 
 # CLASS DIAGRAM:
@@ -64,7 +65,8 @@ Visually express any specific needs of a system and disseminate that information
 
 Create detailed charts that…
 
-<img width="633" height="608" alt="CLASS DIAGRAM" src="https://github.com/user-attachments/assets/dbf71962-11b4-421a-a621-10ea8e7231f7" />
+<img width="1413" height="803" alt="Screenshot 2026-07-29 111621" src="https://github.com/user-attachments/assets/d5847a21-b8f7-4f3c-a936-fa4b34e2071e" />
+
 
 
 # COMMUNICTION DIAGRAM:
@@ -72,8 +74,8 @@ Create detailed charts that…
 A communication diagram offers the same information as a sequence diagram, but while a sequence diagram emphasizes the time and order of events, a communication diagram emphasizes the messages exchanged between objects in an application. Sequence diagrams can fall short of offering the "big picture."
 
 Communication diagrams offer benefits similar to sequence diagrams, but they will offer a better understanding of how components communicate and interact with each other rather than solely emphasizing the sequence of events. They can be a useful reference for businesses, organizations, and engineers who need to visualize and understand the physical communications within a program. Try drawing a sequence diagram to:
+<img width="757" height="707" alt="Screenshot 2026-07-29 112935" src="https://github.com/user-attachments/assets/2ff4bb43-e7c0-4e3a-85d9-c553bd6a8a49" />
 
-<img width="832" height="582" alt="COMMUNICTION DIAGRAM" src="https://github.com/user-attachments/assets/aed4e4a8-0184-433b-98be-7dd8659d05b6" />
 
 # PACKAGE DIAGRAM:
 
@@ -83,7 +85,8 @@ organization of the layered architecture within any UML classifier, such as a so
 
 A well-designed package diagram provides numerous benefits to those looking to create a visualization of their UML system or project.
 
-<img width="817" height="571" alt="PACKAGE DIAGRAM" src="https://github.com/user-attachments/assets/9093f406-ee8a-4405-bde5-47050880e645" />
+<img width="1206" height="797" alt="Screenshot 2026-07-29 113658" src="https://github.com/user-attachments/assets/e9c19138-4b09-4ad1-b821-7b0887e2cca8" />
+
 
 # ACTIVITY DIAGRAM:
 
@@ -98,7 +101,8 @@ Demonstrate the logic of an algorithm.
 Describe the steps performed in a UML use case.
 
 
-<img width="433" height="835" alt="ACTIVITY DIAGRAM" src="https://github.com/user-attachments/assets/10458ff7-7672-4798-8637-c5008367b5d7" />
+<img width="1133" height="876" alt="Screenshot 2026-07-29 115943" src="https://github.com/user-attachments/assets/f50a6943-91cc-4c00-8fa3-7f5fc3d82981" />
+
 
 
 # SEQUENCE DIAGRAM:
